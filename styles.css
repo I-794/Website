@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f0f0f0;
+    color: #333;
 }
 
 header {
@@ -12,8 +13,16 @@ header {
     text-align: center;
 }
 
-section {
+main {
     padding: 2rem;
+}
+
+.details {
+    margin-top: 2rem;
+}
+
+.details h2 {
+    margin-top: 1.5rem;
 }
 
 footer {
